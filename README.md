@@ -10,10 +10,10 @@ Me interesan el machine learning, la visión por ordenador y la optimización ap
 
 ### Tecnologías
 
-**Lenguajes:** Python · R · SQL · C#
-**Datos e IA:** scikit-learn · NumPy · pandas · OpenCV · Streamlit
-**Optimización:** Pyomo · HiGHS
-**Sistemas:** Git · Linux · Bash · Flask · Raspberry Pi
+- **Lenguajes:** Python · R · SQL · C#
+- **Datos e IA:** scikit-learn · NumPy · pandas · OpenCV · Streamlit
+- **Optimización:** Pyomo · HiGHS
+- **Sistemas:** Git · Linux · Bash · Flask · Raspberry Pi
 
 ### Contacto
 
