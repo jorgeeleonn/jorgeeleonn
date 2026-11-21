@@ -2,7 +2,7 @@
 
 Estudiante de 3.º de **Ingeniería Matemática e Inteligencia Artificial** en la Universidad Pontificia Comillas (ICAI), Madrid.
 
-Me interesan el machine learning, la visión por ordenador y la optimización aplicada a problemas reales. Busco **prácticas** en ciencia de datos, inteligencia artificial o desarrollo de software.
+Me interesan machine y deep learning, el análisis de series temporales , la optimización aplicada a problemas reales y los sistemas dinámicos. Busco **prácticas** en ciencia de datos, inteligencia artificial o desarrollo de software.
 
 ### Proyectos
 
