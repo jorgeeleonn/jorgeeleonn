@@ -13,7 +13,7 @@ Me interesan machine y deep learning, el análisis de series temporales , la opt
 - **Lenguajes:** Python · R · SQL · C#
 - **Datos e IA:** scikit-learn · NumPy · pandas · OpenCV · Streamlit
 - **Optimización:** Pyomo · HiGHS
-- **Sistemas:** Git · Linux · Bash · Flask · Raspberry Pi
+- **Sistemas:** Git · Linux · Bash · Raspberry Pi
 
 ### Contacto
 
